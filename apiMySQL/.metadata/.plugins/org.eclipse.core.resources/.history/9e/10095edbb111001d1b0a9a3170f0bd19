@@ -1,0 +1,5 @@
+package br.pi.gov.seduc.apiSpringMysql.controllers;
+
+public class CategoryController {
+
+}

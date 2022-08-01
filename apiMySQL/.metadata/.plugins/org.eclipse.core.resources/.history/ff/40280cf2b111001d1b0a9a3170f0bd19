@@ -1,0 +1,5 @@
+package br.pi.gov.seduc.apiSpringMysql.services;
+
+public class CategoryService {
+
+}

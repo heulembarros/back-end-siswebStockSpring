@@ -1,0 +1,5 @@
+package br.pi.gov.seduc.apiSpringMysql.repositories;
+
+public interface CategoryRepository {
+
+}
